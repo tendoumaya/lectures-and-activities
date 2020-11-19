@@ -1,1 +1,1 @@
-# lectures-and-activities
+# AstraZeneca hackthon
