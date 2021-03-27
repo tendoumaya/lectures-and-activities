@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="RFD.css"?>
 <Documentation>
- <Auther group="031" name="Runbo Zhang"/>
- <Route>
-  <Solution1>
-   This solution is a plugin used in browser, which return the 
+ <Auther group="031" name="Runbo Zhang" say="I am not realy front-end nor back-end engineer, so I can just basically tell the procedure roughly"/>
+ <Route1>
+  A plugin build by VUE + A python shell in server for analysis. Slow responding but precise result foreseable.
+ </Route1>
+ <Route2>
+  A plugin or a app writed by javascript and will running in a node.js. High performance and lightweight foreseable.
+ </Route2>
+</Documentation>
