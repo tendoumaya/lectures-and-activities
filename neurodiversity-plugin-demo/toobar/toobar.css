@@ -1,18 +1,34 @@
 body {
-  width: 430px;
-  background-color: #00cece;
+  width: 760px;
+  height: 500px;
+  background-color: #ffffffbd;
+  border-color: #00b991;
+  border-width: 2pt;
+  border-style: solid;
 }
 
 .box {
-  border:2px solid #00ffc8;
+  margin-top: 2%;
+  margin-right: 20%;
+  display: inline-block;
+  border:2px solid #00b991;
 	padding:10px 40px; 
-	background:#00fff2;
+	background:#ffffff;
 	width:300px;
+  height: 48px;
 	border-radius:25px;
 }
-.entry-unit {
+.box span{
+  margin-left: 10px;     
+  padding-left: 20px;
+  background:url(icons/marker-1.png) left center no-repeat; 
+}
+
+.entry-unit span{
+  color: #00b991;
   display: block;
   margin: 10px 27px 27px 10px;
+  margin-right: 50%;
 }
 
 label, .entry-unit span {
@@ -31,4 +47,9 @@ select {
 input, .input {
   height: 30px;
   float: right;
+}
+
+.showing {
+  width: 725px;
+  height: 425px;
 }
