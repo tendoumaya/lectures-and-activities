@@ -4,3 +4,5 @@ Several independent projects can be found:
 * A web browser plug-in based on javascript
 * A data analysis demo based on python
 * COMSOL model for material simulation
+* Web spider and financial data extractor
+* Computer Vision model
