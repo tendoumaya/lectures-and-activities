@@ -18,6 +18,6 @@
 # Main
 1. Identify key business initiative
 Initiative: Faster and more predictable patient recruitment, including site identification (Strategic Pillars: Patient Access & Engagement + Healthcare Intelligence & Applied Innovation) 
-Reason: a key business initiative is characterised as:
+## Reason: a key business initiative is characterised as:
 + Critical to the immediate-term performance of the organisation:
 ICON's main clients are research institutes (Universities, Pharmacy and Healthcare companies, et cetera). A faster and predictable patient recruitment will make the trial process easier, save time and money for the clients. As clinical trials gradually increase the scale, recruitment will be more and more important.
