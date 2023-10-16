@@ -1,5 +1,5 @@
 # Runbo Zhang
-## <div style="display: flex; justify-content: space-between;"><span>Blackrock, Co. Dublin</span><span>0831980291</span><linkedin.com/in/runb></div>
+## Blackrock, Co. Dublin   |   0831980291   |   <linkedin.com/in/runb>
 ## Profile
 <hr/>
 Motivated and versatile engineering professional with a distinctive blend of expertise and exceptional academic
